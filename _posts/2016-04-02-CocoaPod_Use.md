@@ -163,14 +163,10 @@ Demo.xcworkspace 、Podfile 、Podfile.lock 、Pods
 ```
 
 这个时候我们打开Demo项目是点击 Demo.xcworkspace 文件了，到此CocoaPods的基本使用已经讲完了，接下来的CocoaPods的原理，和让我们自己的三方库也支持CocoaPods。
-
 待续…
 
 [深入理解 CocoaPods](http://blog.jobbole.com/53365/)    
 
-<br>
-
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/04/CocoaPod_Use/)     
 
 
 
