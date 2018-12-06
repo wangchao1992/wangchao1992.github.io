@@ -1,16 +1,9 @@
-# SpringDataJPA-使用QueryDSL
-
-
 ---
 layout: post
 title: 2018-11-06-SpringDataJPA-使用QueryDSL
 date: 2018-11-07
 tags: springJPA   
 ---
-
-原文出处 [https://github.com/nl101531/JavaWEB](https://github.com/nl101531/JavaWEB)
-1.问题的提出
--------
 
 最近再看公司项目中有如下代码,看了后简直不能忍.缺点列出来的话,如下:
 
