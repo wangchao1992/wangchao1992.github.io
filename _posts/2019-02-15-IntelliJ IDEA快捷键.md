@@ -25,7 +25,11 @@ tags: 开发工具
 |alt+insert|快速生成GetterSetter、构造方法、ToString方法||
 |Ctrl+K|提交代码||
 |Ctrl+Shift+K|推送代码到Git|注意该快捷键与输入法有冲突|
-
+|Ctrl+[ OR ]|可以跑到大括号的开头与结尾||
+|Alt+1|项目||
+|Alt+2|收藏||
+|Alt+6|TODO||
+|Alt+7|结构||
 
 另外
 IntelliJ IDEA可以自动优化导入包，但是有多个同名的类位于不同的包时，需要自己手动使用Alt + Enter进行导入。
