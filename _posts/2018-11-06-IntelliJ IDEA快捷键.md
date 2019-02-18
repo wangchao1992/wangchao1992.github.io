@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019-02-15-IntelliJ IDEA快捷键
-date: 2019-12-15
+date: 2019-02-15
 tags: 开发工具   
 ---
 # IntelliJ IDEA快捷键 #
