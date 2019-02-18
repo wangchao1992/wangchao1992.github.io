@@ -18,14 +18,18 @@ tags: 开发工具
 |Ctrl+Alt+T|添加各种代码块|常用 添加try/catch的快捷键 |
 |Ctrl+Alt+L|整理代码格式||
 |Ctrl+Shift+V |选择粘贴历史复制过的代码||
-|Ctrl+Alt+O|删除没用的包||
+|Ctrl+Alt+O|优化导入的类和包||
 |Ctrl+F4|关闭Tab |这个快捷键很不方便，建议自己定义|
 |Ctrl+Shift+F|全局文件内容查找||
 |Ctrl+Shift+R|全局文件内容替换||
 |alt+insert|快速生成GetterSetter、构造方法、ToString方法||
 |Ctrl+K|提交代码||
 |Ctrl+Shift+K|推送代码到Git|注意该快捷键与输入法有冲突|
-
+|Ctrl+[ OR ]|可以跑到大括号的开头与结尾||
+|Alt+1|项目||
+|Alt+2|收藏||
+|Alt+6|TODO||
+|Alt+7|结构||
 另外
 IntelliJ IDEA可以自动优化导入包，但是有多个同名的类位于不同的包时，需要自己手动使用Alt + Enter进行导入。
 Ctrl+Alt+S 打开Settings → Editor→General→Auto Import
