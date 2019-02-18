@@ -30,6 +30,7 @@ tags: 开发工具
 |Alt+2|收藏||
 |Alt+6|TODO||
 |Alt+7|结构||
+
 另外
 IntelliJ IDEA可以自动优化导入包，但是有多个同名的类位于不同的包时，需要自己手动使用Alt + Enter进行导入。
 Ctrl+Alt+S 打开Settings → Editor→General→Auto Import
